@@ -1,0 +1,87 @@
+/*.GLOBAL............................................................*/
+:root {
+    --dark-white: #e1e1e6;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #8672e6;
+}
+p{
+    color: #000;
+}
+th {
+    color: #000;
+}
+td{
+    color: #000;
+}
+
+body{
+    background: #121214;
+    font-family: "Poppins", sans-serif;
+    padding: 0rem;
+}
+
+.conteiner{
+    width: min(90vw , 800px);
+
+    margin: auto;
+}
+/*.TITLES.............................................................*/
+    h2{
+        margin-top: 3.2rem;
+        margin-bottom: 0.8rem;
+        color: #8672e6;
+    }
+
+/*.HEADER.............................................................*/
+header{
+    padding: 2rem 0 10rem;
+    
+    text-align: center;
+    background-color: #202024;
+}
+#logo {
+    color: #fff;
+    font-weight: 100;
+
+}
+/*BALANCE..............................................................*/
+#balance {
+    margin-top:  -6rem;
+}
+#balance h2 {
+    color: white;
+    margin-top: 0;
+}
+
+/*CARD..............................................................*/
+.card{
+    background: var(--dark-white) ;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+}
+.card h3{
+    font-weight: normal;
+    font-size: 1rem;
+}
+.card p{
+    font-size: 2rem;
+    line-height: 3rem;
+
+    margin-top: 1rem;
+}
+
+.card .amount{
+    background-color: yellowgreen;  
+    color: white;
+}
+
+/*FOOTER..............................................................*/
+footer{
+    text-align: center;
+}
