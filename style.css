@@ -76,7 +76,7 @@ header{
     margin-top: 1rem;
 }
 
-.card .amount{
+.card.amount{
     background-color: yellowgreen;  
     color: white;
 }
