@@ -7,3 +7,5 @@
     JavaScript
     HTML
 
+# Author
+ * Davi dos Santos Costa
