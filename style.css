@@ -86,6 +86,10 @@ header{
      border-spacing: 0 0.5rem;
  }
 
+ table th {
+     background-color: whitesmoke;
+     opacity: 0.6;
+ }
  table td{
      background: white;
  }
