@@ -80,6 +80,15 @@ header{
     background-color: yellowgreen;  
     color: white;
 }
+/*TABLE..............................................................*/
+ #data-table {
+     width: 100%;
+     border-spacing: 0 0.5rem;
+ }
+
+ table td{
+     background: white;
+ }
 
 /*FOOTER..............................................................*/
 footer{
