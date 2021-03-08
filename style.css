@@ -81,7 +81,8 @@ header{
     color: white;
 }
 /*TABLE..............................................................*/
- #data-table {
+
+#data-table {
      width: 100%;
      border-spacing: 0 0.5rem;
  }
@@ -93,6 +94,7 @@ header{
  table td{
      background: white;
  }
+   
 
 /*FOOTER..............................................................*/
 footer{
