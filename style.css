@@ -25,6 +25,10 @@ body{
     padding: 0rem;
 }
 
+.sr-only{
+    position: absolute;
+}
+
 .conteiner{
     width: min(90vw , 800px);
 
